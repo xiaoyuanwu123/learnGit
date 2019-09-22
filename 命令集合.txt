@@ -17,3 +17,9 @@ git commit --amend//commit以后撤销提交
 git rm <file.name>//如果工作区文件不存在了，只有暂存区有文件，那可以删除
 git rm --f <file.name>//如果工作区，暂存区都有文件，那执行后，工作区，暂存区文件都会一起被删除
 git rm --cached <file.name>//如果工作区，暂存区都有文件，那执行后，工作区文件会被保留，暂存区文件会被删除
+--恢复
+git checkout commit_id <file.name>//对指定文件恢复
+git reset --hard commit_id//对整个版本进行恢复
+	>>HEAD^//恢复到上一个版本
+	>>HEAD~<num>//恢复倒数第几个版本
+git reflog//看所有的操作日志
