@@ -23,3 +23,11 @@ git reset --hard commit_id//对整个版本进行恢复
 	>>HEAD^//恢复到上一个版本
 	>>HEAD~<num>//恢复倒数第几个版本
 git reflog//看所有的操作日志
+--同步到远程仓库
+git remote//查版本区的名字
+git remote -v//查版本区地址
+--多人协作解决冲突
+git fetch//只拉取，不合并代码
+git diff master origin/master
+git merge origin/master
+git pull//即拉取也合并代码
