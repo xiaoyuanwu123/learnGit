@@ -1,11 +1,15 @@
---提交命令
+--提交
 git clone 
 git branch
 git status
 git add .
 git commit -m '备注'
 git push -u origin master
---对比命令
+--对比
 git diff//工作区和暂存区的对比
 git diff --cached//暂存区和版本库的对比
 git diff master//工作区和版本库的对比
+--撤销
+git reset HEAD <file.name>//从暂存区撤销回工作区
+git checkout -- <file.name>//把工作区恢复成版本区的版本
+git commit --amend//commit以后撤销提交
