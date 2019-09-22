@@ -1,6 +1,11 @@
+--提交命令
 git clone 
 git branch
 git status
 git add .
 git commit -m '备注'
 git push -u origin master
+--对比命令
+git diff//工作区和暂存区的对比
+git diff --cached//暂存区和版本库的对比
+git diff master//工作区和版本库的对比
