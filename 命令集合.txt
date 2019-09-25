@@ -30,4 +30,4 @@ git remote -v//查版本区地址
 git fetch//只拉取，不合并代码
 git diff master origin/master
 git merge origin/master
-git pull//即拉取也合并代码
+git pull//既拉取也合并代码
