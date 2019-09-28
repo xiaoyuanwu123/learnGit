@@ -31,3 +31,9 @@ git fetch//只拉取，不合并代码
 git diff master origin/master
 git merge origin/master
 git pull//既拉取也合并代码
+--分支操作
+git branch //查看当前分支
+git branch <branch name>//开辟新分支
+git checkout <branch name>//切换开发的分支
+git checkout -b <branch name>//开辟新分支，并切换到新的分支上来
+git merge <branch name>//将当前分支和branch name对应的分支合并
