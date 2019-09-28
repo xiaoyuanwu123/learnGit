@@ -37,3 +37,7 @@ git branch <branch name>//开辟新分支
 git checkout <branch name>//切换开发的分支
 git checkout -b <branch name>//开辟新分支，并切换到新的分支上来
 git merge <branch name>//将当前分支和branch name对应的分支合并
+git branch --merged //查看当前已合并的分支
+git branch --no-merged//查看当前没有合并的分支
+git branch -d <branch name>//删除已合并的分支
+git branch -D <branch name>//强制删除分支，即使分支没有合并
