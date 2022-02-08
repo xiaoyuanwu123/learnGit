@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T01:55:43.668Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.5.3" etag="oT7E9ZbRMLs3V8YEgXLx" type="github"><diagram id="vPjnrQoIsFsj-2KpNPdL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-08T04:49:27.725Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="d3bUv5WAbJzqy7Y0y-AD" version="16.5.3" type="github">
+  <diagram id="vPjnrQoIsFsj-2KpNPdL" name="Page-1">
+    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="66.25" width="1010" height="427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.401;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.399;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MkJoMWs4l-8RiEpJGgM6-1" target="MkJoMWs4l-8RiEpJGgM6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="200" as="sourcePoint" />
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MkJoMWs4l-8RiEpJGgM6-1" target="MkJoMWs4l-8RiEpJGgM6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="200" as="sourcePoint" />
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-17" value="静态代码检查 :&lt;br&gt;(kw,coverity,passecret,&lt;br&gt;dockerscan,modecheck)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-18" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="150" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-20" value="单组件正常,异常流程功能测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-21" value="接口测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="150" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-4" value="增长异常流程测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-25" value="接口测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-26" value="多场景覆盖测试(含升级)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-27" value="VerifyCI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-28" value="产品安全扫描&lt;br&gt;(公司+自研)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-29" value="后端系统测试&lt;br&gt;(自动化+手工)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-30" value="暂时没有跨项目的平台级CI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="140" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-33" value="个人/组件级CI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-34" value="项目/平台级CI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-35" value="跨项目/平台级CI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-36" value="VerifyCI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-37" value="MergeCI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-38" value="增量CI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-39" value="全量CI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MkJoMWs4l-8RiEpJGgM6-40" value="全量CI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
