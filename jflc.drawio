@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T03:08:06.273Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ygnx7xscue7UBgQnoZCl" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T03:09:39.262Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="K806SdO-M51gw8JMjzRZ" version="16.5.6" type="github">
   <diagram id="uMxS9zSxUYYA1IrVC04X" name="Page-1">
     <mxGraphModel dx="2009" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,11 +115,11 @@
         <mxCell id="4pE7KUQ0on6KTjlB-q4L-63" value="下载MergeCI推的制品库文件" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="260" y="440" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4pE7KUQ0on6KTjlB-q4L-67" value="jfrog rt u" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="518.75" y="500" width="60" height="20" as="geometry" />
+        <mxCell id="4pE7KUQ0on6KTjlB-q4L-67" value="上传版本包" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="508.75" y="500" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4pE7KUQ0on6KTjlB-q4L-68" value="jfrog dl" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="610" y="490" width="50" height="20" as="geometry" />
+        <mxCell id="4pE7KUQ0on6KTjlB-q4L-68" value="下载ComponentCI上传的制品库文件" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="610" y="500" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T3O_rZqb_Dg1Fm7BCMoZ-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="4pE7KUQ0on6KTjlB-q4L-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
